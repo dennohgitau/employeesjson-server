@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Denis",
+      "lastName": "Gitau",
+      "email": "denis@mail.com",
+      "dob": "2023-07-09T21:00:00.000Z",
+      "gender": "male",
+      "experience": 5,
+      "education": "Bachelors",
+      "company": "AWS",
+      "package": 450000,
+      "id": 1
+    },
+    {
+      "firstName": "Master",
+      "lastName": "Jing",
+      "email": "jing@mail.com",
+      "dob": "2023-06-30T21:00:00.000Z",
+      "gender": "male",
+      "experience": 12,
+      "education": "Diploma",
+      "company": "Google",
+      "package": 46,
+      "id": 2
+    },
+    {
+      "firstName": "Support",
+      "lastName": "IT",
+      "email": "support@mail.com",
+      "dob": "2023-07-14T21:00:00.000Z",
+      "gender": "male",
+      "experience": 5,
+      "education": "Masters",
+      "company": "MFT",
+      "package": 3456778,
+      "id": 3
+    }
+  ]
+}
